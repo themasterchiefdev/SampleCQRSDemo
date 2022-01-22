@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCQRS.Web", "SampleCQRS.Web\SampleCQRS.Web.csproj", "{AFD62DBB-CF58-4D10-B5E6-4A29FC069B23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X.Api", "X.Api\X.Api.csproj", "{3FE2FEFE-7F8C-4039-9B65-C6C4ADD5A8DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AFD62DBB-CF58-4D10-B5E6-4A29FC069B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFD62DBB-CF58-4D10-B5E6-4A29FC069B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFD62DBB-CF58-4D10-B5E6-4A29FC069B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFD62DBB-CF58-4D10-B5E6-4A29FC069B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE2FEFE-7F8C-4039-9B65-C6C4ADD5A8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE2FEFE-7F8C-4039-9B65-C6C4ADD5A8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE2FEFE-7F8C-4039-9B65-C6C4ADD5A8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE2FEFE-7F8C-4039-9B65-C6C4ADD5A8DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

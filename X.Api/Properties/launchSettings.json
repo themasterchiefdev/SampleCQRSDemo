@@ -1,18 +1,20 @@
-{
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:13350",
-      "sslPort": 44397
+      "applicationUrl": "http://localhost:21683",
+      "sslPort": 44318
     }
   },
   "profiles": {
-    "SampleCQRS.Web": {
+    "X.Api": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7227;http://localhost:5005",
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7198;http://localhost:5271",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,6 +22,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
+      "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

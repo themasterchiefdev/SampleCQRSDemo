@@ -1,4 +1,4 @@
-namespace SampleCQRS.Web.Data;
+namespace X.Api;
 
 public class WeatherForecast
 {
